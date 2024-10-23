@@ -14,7 +14,7 @@ Modelo Vista Controlador.
 ## Pantalla principal
 ![image](https://github.com/user-attachments/assets/731b37e5-928a-4591-8f6c-ed19174eacb1)
 
-# Catalago con filtrado segun caracteristicas del videojuego
+# Catalago con filtrado según caracteristicas del videojuego
 ![image](https://github.com/user-attachments/assets/3b147069-257d-462f-870f-8776efb4c5e8)
 
 ![image](https://github.com/user-attachments/assets/52ea73e1-0c64-427d-af70-4a3c33aa5046)
